@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TALLERES_RIWI.iml" filepath="$PROJECT_DIR$/.idea/TALLERES_RIWI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER 5 POO/_01_inventario_POO/_01_inventario_POO.iml" filepath="$PROJECT_DIR$/TALLER 5 POO/_01_inventario_POO/_01_inventario_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER 5 POO/_02_gestion_empleados/_02_gestion_empleados.iml" filepath="$PROJECT_DIR$/TALLER 5 POO/_02_gestion_empleados/_02_gestion_empleados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER 5 POO/_03_Gestion_cursos/_03_Gestion_cursos.iml" filepath="$PROJECT_DIR$/TALLER 5 POO/_03_Gestion_cursos/_03_Gestion_cursos.iml" />
+    </modules>
+  </component>
+</project>
